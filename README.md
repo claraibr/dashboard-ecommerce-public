@@ -3,7 +3,7 @@
 ## 📑 Deskripsi
 Aplikasi ini dibuat dengan **Streamlit** untuk menganalisis tingkat kepuasan pelanggan berdasarkan kondisi jarak dan melihat pola pembelian produk. 
 
-[![Open in Streamlit](https://humble-guacamole-69w9rg4qv7wjf4v6v-8501.app.github.dev/)]
+[![Open in Streamlit](http://localhost:8502)]
 
 ## 🗂 Dataset
 Dataset yang digunakan pada aplikasi ini adalah:
