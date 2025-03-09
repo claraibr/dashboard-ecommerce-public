@@ -7,11 +7,11 @@ Aplikasi ini dibuat dengan **Streamlit** untuk menganalisis tingkat kepuasan pel
 
 ## 🗂 Dataset
 Dataset yang digunakan pada aplikasi ini adalah:
-   -'customers_dataset.csv' berisi data pelanggan
-   -'orders_dataset.csv' berisi data pesanan
-   -'geolocation_dataset.csv' berisi data lokasi pelanggan
-   -'order_reviews_dataset.csv' berisi data ulasan pelanggan
-   -'products_dataset.csv' berisi data produk
+   1. 'customers_dataset.csv' berisi data pelanggan
+   2. 'orders_dataset.csv' berisi data pesanan
+   3. 'geolocation_dataset.csv' berisi data lokasi pelanggan
+   4. 'order_reviews_dataset.csv' berisi data ulasan pelanggan
+   5. 'products_dataset.csv' berisi data produk
 
 ## How to run it on your own machine
 
