@@ -3,15 +3,15 @@
 ## 📑 Deskripsi
 Aplikasi ini dibuat dengan **Streamlit** untuk menganalisis tingkat kepuasan pelanggan berdasarkan kondisi jarak dan melihat pola pembelian produk. 
 
-[![Open in Streamlit](http://localhost:8502)]
+🔗[Open in Streamlit](http://localhost:8502)
 
 ## 🗂 Dataset
 Dataset yang digunakan pada aplikasi ini adalah:
--'customers_dataset.csv' berisi data pelanggan
--'orders_dataset.csv' berisi data pesanan
--'geolocation_dataset.csv' berisi data lokasi pelanggan
--'order_reviews_dataset.csv' berisi data ulasan pelanggan
--'products_dataset.csv' berisi data produk
+   -'customers_dataset.csv' berisi data pelanggan
+   -'orders_dataset.csv' berisi data pesanan
+   -'geolocation_dataset.csv' berisi data lokasi pelanggan
+   -'order_reviews_dataset.csv' berisi data ulasan pelanggan
+   -'products_dataset.csv' berisi data produk
 
 ## How to run it on your own machine
 
@@ -28,9 +28,9 @@ Dataset yang digunakan pada aplikasi ini adalah:
    ```
 
 ## ⚙ Fitur
-- **Rata - Rata Tingkat Kepuasan Pelanggan berdasarkan Durasi Pengiriman** : melihat tren rata - rata tingkat kepuasan pelangan berdasarkan durasi pengiriman. 
-- **Boxplot Tingkat Kepuasan berdasarkan Kategori Jarak** : melihat variasi tingkat kepuasan pelanggan berdasarkan kategori jarak.
-- **Scatterplot Jarak vs Review Score**: melihat hubungan antara tingkat kepuasan dengan kategori jarak.
--**Tren Jumlah Pesanan Harian**: melihat pola pesanan berdasarkan harian.
--**Heatmap Tren Bulanan**: melihat pola jumlah pemesanan berdasarkan bulan.
--**Jumlah Order Berdasarkan Status per Bulan**: menunjukkan tren jumlah pemesanan berdasarkan status. 
+   - **Rata - Rata Tingkat Kepuasan Pelanggan berdasarkan Durasi Pengiriman** : melihat tren rata - rata tingkat kepuasan pelangan berdasarkan durasi pengiriman. 
+   - **Boxplot Tingkat Kepuasan berdasarkan Kategori Jarak** : melihat variasi tingkat kepuasan pelanggan berdasarkan kategori jarak.
+   - **Scatterplot Jarak vs Review Score**: melihat hubungan antara tingkat kepuasan dengan kategori jarak.
+   -**Tren Jumlah Pesanan Harian**: melihat pola pesanan berdasarkan harian.
+   -**Heatmap Tren Bulanan**: melihat pola jumlah pemesanan berdasarkan bulan.
+   -**Jumlah Order Berdasarkan Status per Bulan**: menunjukkan tren jumlah pemesanan berdasarkan status. 
