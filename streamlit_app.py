@@ -166,8 +166,8 @@ def main():
             if data_section == "Data":
                 st.write(georeview_df.head(20))  # Menampilkan data dengan benar
             else:
-                vis_type = st.selectbox("Pilih Visualisasi", ["Rata-Rata Rate berdasarkan Jarak", "Boxplot", "Scatterplot"])
-                if vis_type == "Rata-Rata Rate berdasarkan Jarak":
+                vis_type = st.selectbox("Pilih Visualisasi", ["Rata-Rata Rate berdasarkan Durasi Pengiriman", "Boxplot", "Scatterplot"])
+                if vis_type == "Rata-Rata Rate berdasarkan Durasi Pengiriman":
                     st.write("Menampilkan plot review")
                     st.pyplot(plot_review(georeview_df))
                 elif vis_type == "Boxplot":
